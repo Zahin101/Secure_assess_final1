@@ -39,7 +39,7 @@
    - Statistics
 
 7. **Service Management**
-   - Create, view, update, delete services
+   - Create, view, update, and delete services
    - Filter by service type
    - Service details
 
@@ -47,14 +47,14 @@
 
 ## COMPLETE TEST FLOW
 
-### Instal Dependencies
+### Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
 ### Run the batch file "run_app.bat"
 1.  Starts up the back end in a terminal window
-2.  Starts up the front end in a separte terminal window
+2.  Starts up the front end in a separate terminal window
 3.  launches the web app at the URL: "http://localhost:3000"
 
 ### Register Users
@@ -103,7 +103,7 @@ User 2 (Client):
 ## REPO STRUCTURE
 
 ```
-Secure Assesment Final/
+Secure Assessment Final/
     backend/           
         main.py       
         auth.py
